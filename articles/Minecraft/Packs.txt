@@ -1,0 +1,2 @@
+In Minecraft Bedrock Edition there are two types of packs. The behavior pack and the resource pack.
+Behavior packs changes the way things work. A resource pack changes how things look. If you want to create an addon you need both.
