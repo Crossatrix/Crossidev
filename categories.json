@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Websites",
+    "description": "All about web development",
+    "files": "websites",
+    "articles": ["getting-started", "html-basics", "deployment"]
+  },
+  {
+    "name": "API Design",
+    "description": "Guides on building APIs",
+    "files": "apis",
+    "articles": ["rest-guidelines", "authentication"]
+  }
+]
